@@ -31,6 +31,10 @@ module.exports = {
           from: "./src/index.html",
           to: "./",
         },
+        {
+          from: "./src/assets/models",
+          to: "./assets/models/",
+        },
       ],
     }),
   ],
